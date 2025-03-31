@@ -2,7 +2,7 @@
     "name": "구구단 게임",
     "short_name": "구구단",
     "description": "구구단 학습 게임",
-    "start_url": "/index.html",
+    "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#007bff",
@@ -20,6 +20,11 @@
         {
             "src": "icons/icon-144x144.png",
             "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-180x180.png",
+            "sizes": "180x180",
             "type": "image/png"
         },
         {
